@@ -1,0 +1,15 @@
+
+select * from table
+
+select 
+where
+count
+in
+and
+wn u have idea like '%%'
+in ('7', '98')
+select customer_id,staff_id,amount,count(*) from payment
+where amount = '0.99' and staff_id='1'
+ group by customer_id,staff_id,amount
+order by staff_id desc  
+limit 5 
